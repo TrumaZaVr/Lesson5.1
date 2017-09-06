@@ -1,0 +1,12 @@
+{
+  "name": "trumazavr/lesson5.1",
+  "require": {
+    "yandex/geo": "1.1.3"
+  },
+  "authors": [
+    {
+      "name": "TrumaZaVr",
+      "email": "trumvovaz@gmail.com"
+    }
+  ]
+}
